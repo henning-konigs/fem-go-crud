@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/henning-konigs/fem-go-crud/internal/app"
-	"github.com/henning-konigs/fem-go-crud/internal/app/routes"
+	"github.com/henning-konigs/fem-go-crud/internal/routes"
 )
 
 func main() {
